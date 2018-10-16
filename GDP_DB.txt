@@ -1,0 +1,43 @@
+[
+    {
+        "page": 1,
+        "pages": 1,
+        "per_page": 50,
+        "lastupdated": "2018-09-21",
+        "total": 2
+    },
+    [
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.PP.CD",
+                "value": "GDP per capita, PPP (current international $)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2017",
+            "value": 15483.5408303931,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        },
+        {
+            "indicator": {
+                "id": "NY.GDP.PCAP.PP.CD",
+                "value": "GDP per capita, PPP (current international $)"
+            },
+            "country": {
+                "id": "BR",
+                "value": "Brazil"
+            },
+            "countryiso3code": "BRA",
+            "date": "2016",
+            "value": 15181.4713659756,
+            "unit": "",
+            "obs_status": "",
+            "decimal": 1
+        }
+    ]
+]
